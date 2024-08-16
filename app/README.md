@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project demonstrates how to use Syft SDK to call "identify" call on login.
+This is [Next.js](https://nextjs.org/) project shows how to use Syft SDK to "identify" users on login or signup. 
 
 ## Steps
 
